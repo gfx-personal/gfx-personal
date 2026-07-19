@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriel 👋
+# Hi there, I'm Gabriel 
 
 I am an **Agentic Engineer** focused on developing intelligent systems, advanced automations, and end-to-end enterprise solutions. Currently, I drive the technical development at my software house, translating complex business logic into seamless, high-performance applications.
 

@@ -1,31 +1,26 @@
-# Hi there, I'm Gabriel 
+# Hi there, I'm Gabriel Felix 👋
+### Agentic Engineer | Autonomous Systems & Enterprise Architecture
 
-I am an **Agentic Engineer** focused on developing intelligent systems, advanced automations, and end-to-end enterprise solutions. Currently, I drive the technical development at my software house, translating complex business logic into seamless, high-performance applications.
-
-My approach is heavily rooted in autonomy and results-driven engineering—designing workflows that solve real-world bottlenecks through AI agents and robust automation.
-
----
-
-### 🛠️ What I Do (Software House Focus)
-*   **AI Agents & Chatbots:** Building intelligent assistants, multi-agent orchestrations, and custom conversational flows.
-*   **ERP Systems & Dashboards:** Robust platforms for internal management, operations, and process optimization.
-*   **Landing Pages & Web Apps:** High-converting, fast, and scalable user interfaces.
-
-### 💻 Tech Stack & Workflow
-*   **AI / Workflow:** Antigravity & Google Ecosystem (Vertex AI / Firebase / Cloud Functions)
-*   **Frontend:** TypeScript, Next.js, Vite, TailwindCSS
-*   **Backend & DB:** Node.js, PostgreSQL
-*   **Methodology:** Agile development integrated with hybrid approaches (Code & Advanced No-Code/Low-Code for rapid MVP shipping).
+I design and build intelligent multi-agent systems, mission-critical ERPs, and high-performance automations that solve real-world operational bottlenecks. As the technical lead at my software house, I bridge cutting-edge LLM orchestration with robust fullstack engineering.
 
 ---
 
-### 🎯 Current Focus
-I am deeply specializing in complex agentic architectures, LLM orchestration, memory management, and optimizing context windows for autonomous AI systems.
+### 🛠️ What I Do
+- **Autonomous AI Agents & Workflows:** Multi-agent orchestration, context window optimization, tool calling, and human-in-the-loop pipelines.
+- **Enterprise ERPs & Dashboards:** Scalable backends, relational data integrity, and intuitive interfaces for complex business operations.
+- **High-Performance Web Platforms:** Production-ready applications built with TypeScript, Next.js, and modern cloud architectures.
 
 ---
 
-### 🌐 Connect with me
-*   ✉️ Professional Email: gfxpersonalcontact@gmail.com
+### 💻 Core Tech Stack
+- **AI & Orchestration:** Google Ecosystem (Vertex AI, Gemini, Cloud Functions), Antigravity, Multi-agent Architectures
+- **Frontend:** TypeScript, Next.js, Vite, Tailwind CSS
+- **Backend & Database:** Node.js, PostgreSQL, Prisma ORM, REST/tRPC
+- **DevOps & Tooling:** Docker, Linux Environment Optimization, Git
 
 ---
-<p align="right"><i>"The best way to predict the future is to program it."</i></p>
+
+### 🌐 Connect & Collaborate
+- ✉️ **Direct Contact:** [gfxpersonalcontact@gmail.com](mailto:gfxpersonalcontact@gmail.com)
+
+> *"The best way to predict the future is to program it."*

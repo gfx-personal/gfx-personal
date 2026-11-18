@@ -1,26 +1,18 @@
-# Hi there, I'm Gabriel Felix 👋
-### Agentic Engineer | Autonomous Systems & Enterprise Architecture
+# Gabriel Felix
 
-I design and build intelligent multi-agent systems, mission-critical ERPs, and high-performance automations that solve real-world operational bottlenecks. As the technical lead at my software house, I bridge cutting-edge LLM orchestration with robust fullstack engineering.
+Agentic engineer. I'm building [Gengi](https://github.com/gengi-studio): conversion-focused websites and 3D digital flagships, produced with multi-agent pipelines.
 
----
+### What I work on
+- **Agentic production pipelines:** multi-agent orchestration, context engineering, verification gates and human-in-the-loop review.
+- **Conversion websites and interactive web:** fast, mobile-first sites built to turn visits into contacts.
+- **Automation for small businesses:** lead qualification and operational workflows.
 
-### 🛠️ What I Do
-- **Autonomous AI Agents & Workflows:** Multi-agent orchestration, context window optimization, tool calling, and human-in-the-loop pipelines.
-- **Enterprise ERPs & Dashboards:** Scalable backends, relational data integrity, and intuitive interfaces for complex business operations.
-- **High-Performance Web Platforms:** Production-ready applications built with TypeScript, Next.js, and modern cloud architectures.
-
----
-
-### 💻 Core Tech Stack
-- **AI & Orchestration:** Google Ecosystem (Vertex AI, Gemini, Cloud Functions), Antigravity, Multi-agent Architectures
+### Stack
+- **AI:** Google ecosystem (Vertex AI, Gemini, Cloud Functions), Antigravity, multi-agent architectures
 - **Frontend:** TypeScript, Next.js, Vite, Tailwind CSS
-- **Backend & Database:** Node.js, PostgreSQL, Prisma ORM, REST/tRPC
-- **DevOps & Tooling:** Docker, Linux Environment Optimization, Git
+- **Backend:** Node.js, PostgreSQL, Prisma ORM, REST/tRPC
+- **Tooling:** Docker, Linux, Git
 
----
-
-### 🌐 Connect & Collaborate
-- ✉️ **Direct Contact:** [gfxpersonalcontact@gmail.com](mailto:gfxpersonalcontact@gmail.com)
-
-> *"The best way to predict the future is to program it."*
+### Contact
+- Projects and quotes: [@gengi-studio](https://github.com/gengi-studio)
+- Personal: [gfxpersonalcontact@gmail.com](mailto:gfxpersonalcontact@gmail.com)
